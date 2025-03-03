@@ -8,6 +8,7 @@ CRYPTO_SECRET=outra_chave_super_secreta
 # 🔑 Configuração do Administrador (testing purposes)
 ADMIN_WALLET=0xC7A4ABd1454088deCD8B0829992BB47f7fD49974
 Metamask (12 seeds) : awful float egg lab guard scatter chalk crack element strike oval start
+#Metamask New Password: NunoSilva123@
 
 # 🗄️ NOME DA BASE DE DADOS
 DB_NAME=nextdatabase
